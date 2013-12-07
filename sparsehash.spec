@@ -1,6 +1,6 @@
 Name:           sparsehash
 Version:        2.0.2
-Release:        2
+Release:        3
 License:        BSD-3-Clause
 Summary:        Extremely memory-efficient hash_map implementation
 Url:            http://code.google.com/p/sparsehash
