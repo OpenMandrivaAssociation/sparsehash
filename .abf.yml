@@ -1,2 +1,4 @@
+removed_sources:
+  sparsehash-2.0.2.tar.gz: 12c7552400b3e20464b3362286653fc17366643e
 sources:
-  "sparsehash-2.0.2.tar.gz": 12c7552400b3e20464b3362286653fc17366643e
+  sparsehash-2.0.3.tar.gz: 94a9aad9167275af41b13122c60754ad1a5adb34
